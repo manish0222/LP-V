@@ -2,6 +2,12 @@
 #include <vector>
 #include <omp.h>
 using namespace std;
+/* To Run Execute the following commands:
+g++ -fopenmp Assignment2.cpp -o Assignment2
+./Assignment2
+*/
+
+
 //-fopenmp dep in right
 // compiler x86-64 gcc 13.1
 // https://godbolt.org/
