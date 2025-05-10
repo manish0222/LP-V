@@ -1,3 +1,8 @@
+The release in the Right-> has all the zip of all codes and datasets needed for practical
+Dataset being very large i had to make a release as zip 
+
+HPC Code details :-
+
 sudo apt install libomp-dev
 
 To run OpenMp codes run following commands on terminal-
